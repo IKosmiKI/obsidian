@@ -2,5 +2,7 @@
   "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "Things",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "textFontFamily": "Source Code Pro",
+  "baseFontSizeAction": false
 }
