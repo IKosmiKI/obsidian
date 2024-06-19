@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Прога/3 Классы в языке программирования C++.md",
+                "file": "Прога/2 Структурные особенности в C++, отсутствующие в C.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ссылка",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Прога/3 Классы в языке программирования C++.md",
+                "file": "Прога/2 Структурные особенности в C++, отсутствующие в C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Прога/3 Классы в языке программирования C++.md",
+                "file": "Прога/2 Структурные особенности в C++, отсутствующие в C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Прога/3 Классы в языке программирования C++.md"
+                "file": "Прога/2 Структурные особенности в C++, отсутствующие в C.md"
               }
             }
           }
@@ -148,8 +149,8 @@
   },
   "active": "7872075709bb636f",
   "lastOpenFiles": [
-    "Прога/2 Структурные особенности в C++, отсутствующие в C.md",
     "Прога/3 Классы в языке программирования C++.md",
+    "Прога/2 Структурные особенности в C++, отсутствующие в C.md",
     "Прога/Стандартные библиотеки языка C++.md",
     "Прога/Прога.md",
     "История/11 Россия в конце XVII - первой четверти XVIII века (Петровские реформы).md",
