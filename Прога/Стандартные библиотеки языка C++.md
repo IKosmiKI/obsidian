@@ -15,5 +15,10 @@
 9. $lg(x)$ - `double log 10 (double x)`, если x < 0, то будет ошибка области
 10. $x^y$ - `double pow (double x, double y)`, если x = 0 и y <= 0 или x < 0 и y - не целое, то будет ошибка области
 11. $\sqrt{x}$ - `double sqrt (double x)`
-12. округление  с избытком `double ceil (double x)`
-13. округление с недостатком `double floor (double x)`
+12. округление  с избытком - `double ceil (double x)`
+13. округление с недостатком - `double floor (double x)`
+14. $|x|$  для целых - `int abs (int x)`
+15. $|x|$  для вещественных - `double fabs (double x)`
+16. $|x|$  для длинного числа - `long labs (long x)`
+
+## Функции для обработки строк <string.h>
