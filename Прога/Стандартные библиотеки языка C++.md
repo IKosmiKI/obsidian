@@ -13,4 +13,5 @@
 7. $e^x$ - `double exp (double x)` 
 8. $ln(x)$ - `double log (double x)`, если x < 0, то будет ошибка области
 9. $lg(x)$ - `double log 10 (double x)`, если x < 0, то будет ошибка области
-10. $x^y$ - `d`
+10. $x^y$ - `double pow (double x, double y)`, если x = 0 и y <= 0 или x < 0 и y - не целое, то будет ошибка области
+11. $sqrt(x)$  
