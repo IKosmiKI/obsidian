@@ -11,8 +11,12 @@
             "id": "7872075709bb636f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Прога/3 Классы в языке программирования C++.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Прога/3 Классы в языке программирования C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Прога/3 Классы в языке программирования C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Прога/3 Классы в языке программирования C++.md"
+              }
             }
           }
         ]
@@ -140,8 +148,8 @@
   },
   "active": "7872075709bb636f",
   "lastOpenFiles": [
-    "Прога/Прога.md",
     "Прога/Стандартные библиотеки языка C++.md",
+    "Прога/Прога.md",
     "Прога/3 Классы в языке программирования C++.md",
     "История/11 Россия в конце XVII - первой четверти XVIII века (Петровские реформы).md",
     "История/10 Романовы на русском престоле в XVII веке.md",
