@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7872075709bb636f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Прога/3 Классы в языке программирования C++.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "История/12 Характеристика Дворцовых переворотов (2 четверть XVIII века).md",
+                "file": "Прога/3 Классы в языке программирования C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "История/12 Характеристика Дворцовых переворотов (2 четверть XVIII века).md",
+                "file": "Прога/3 Классы в языке программирования C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "История/12 Характеристика Дворцовых переворотов (2 четверть XVIII века).md"
+                "file": "Прога/3 Классы в языке программирования C++.md"
               }
             }
           }
@@ -146,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9888a67ec6ed750a",
+  "active": "7872075709bb636f",
   "lastOpenFiles": [
     "История/11 Россия в конце XVII - первой четверти XVIII века (Петровские реформы).md",
     "История/10 Романовы на русском престоле в XVII веке.md",
