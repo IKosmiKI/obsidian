@@ -315,7 +315,7 @@
           "textItalic": true
         },
         "languageTag": {
-          "display": "always",
+          "display": "none",
           "textFont": "",
           "textBold": true,
           "textItalic": false
