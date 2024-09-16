@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "454d1e61046763ef",
+        "id": "74e1b97276c190b4",
         "type": "tabs",
         "children": [
           {
-            "id": "7872075709bb636f",
+            "id": "25fe6a36b65d04e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ЭВМ/7 Поколения ЭВМ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "495b1e8a9082b426",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Разработка и анализ требований ПО/1 Требования к ПО.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Разработка и анализ требований ПО/1 Требования к ПО.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Разработка и анализ требований ПО/1 Требования к ПО.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Разработка и анализ требований ПО/1 Требования к ПО.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,8 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "495b1e8a9082b426",
+  "active": "25fe6a36b65d04e0",
   "lastOpenFiles": [
+    "ЭВМ/7 Поколения ЭВМ.md",
+    "ВТО/1 Высокоэффективные технологии и оборудование современных производств.md",
+    "Разработка и анализ требований ПО/1 Требования к ПО.md",
     "История/3 семестр/1 Россия в начале 19 века.md",
     "Структуры и алгоритмы обработки данных/1 Структуры данных.md",
     "data/Pasted image 20240911152140.png",
@@ -169,10 +151,8 @@
     "ВТО/2 Электрохимические методы обработки.md",
     "data/Pasted image 20240910113826.png",
     "data/Pasted image 20240910110047.png",
-    "ВТО/1 Высокоэффективные технологии и оборудование современных производств.md",
     "data/Pasted image 20240910104856.png",
     "data/Pasted image 20240910103043.png",
-    "Разработка и анализ требований ПО/1 Требования к ПО.md",
     "Разработка и анализ требований ПО",
     "Структуры и алгоритмы обработки данных",
     "ЭВМ/5 Архитектура и организация ЭВМ. Архитектура и принципы фон Неймана.md",
