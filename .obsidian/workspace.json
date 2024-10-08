@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "История/3 семестр/4.md",
-                "mode": "source",
+                "file": "История/3 семестр/4 Россия в последней четверти 19 века.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ВТО/2 Электрохимические методы обработки.md",
+                "file": "История/3 семестр/4 Россия в последней четверти 19 века.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ВТО/2 Электрохимические методы обработки.md",
+                "file": "История/3 семестр/4 Россия в последней четверти 19 века.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ВТО/2 Электрохимические методы обработки.md"
+                "file": "История/3 семестр/4 Россия в последней четверти 19 века.md"
               }
             }
           }
@@ -159,13 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba9a08a388072c2b",
+  "active": "25fe6a36b65d04e0",
   "lastOpenFiles": [
-    "История/3 семестр/4.md",
+    "ВТО/2 Электрохимические методы обработки.md",
+    "История/3 семестр/4 Россия в последней четверти 19 века.md",
     "Прога/3 семестр/4 Виртуальные функции.md",
     "Прога/3 семестр/3 Наследование классов.md",
     "Структуры и алгоритмы обработки данных/1 Структуры данных.md",
-    "ВТО/2 Электрохимические методы обработки.md",
     "data/Pasted image 20241001111551.png",
     "data/Pasted image 20241001111324.png",
     "data/Pasted image 20241001111320.png",
