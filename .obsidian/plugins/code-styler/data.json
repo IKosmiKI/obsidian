@@ -321,7 +321,7 @@
           "textItalic": false
         },
         "languageIcon": {
-          "display": "always",
+          "display": "none",
           "displayColour": true
         },
         "externalReference": {
