@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "12 Алгоритмы обработки данных"
             }
+          },
+          {
+            "id": "d32d84f52364efb2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf32e15d65c805c9",
+  "active": "d32d84f52364efb2",
   "lastOpenFiles": [
     "Структуры и алгоритмы обработки данных/1 Структуры данных.md",
     "Структуры и алгоритмы обработки данных/7 Преимущества и недостатки динамических данных.md",
