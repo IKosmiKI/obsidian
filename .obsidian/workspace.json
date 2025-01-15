@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Структуры и алгоритмы обработки данных/4 Полу-статические структуры данных.md",
+                "file": "Прога/3 семестр/12 Верификация и валидация программного обеспечения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 Полу-статические структуры данных"
+              "title": "12 Верификация и валидация программного обеспечения"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -154,18 +154,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "d32d84f52364efb2",
   "lastOpenFiles": [
-    "Структуры и алгоритмы обработки данных/5 Линейные динамические структуры данных.md",
     "Структуры и алгоритмы обработки данных/4 Полу-статические структуры данных.md",
+    "Структуры и алгоритмы обработки данных/5 Линейные динамические структуры данных.md",
     "Структуры и алгоритмы обработки данных/3 Статические структуры.md",
     "Структуры и алгоритмы обработки данных/2 Распределение памяти + указатель на void.md",
     "Структуры и алгоритмы обработки данных/1 Структуры данных.md",
