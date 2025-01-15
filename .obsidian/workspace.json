@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "99f52e2a737e25de",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4d7bf1ea0869521",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c04a62a682664003",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68c5a76f3b336e2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "eca927d593d8d6f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0265c65c3f890401",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "8955b0006eac31e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "84bbd8df21a5c655",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7a5781585ba1b65",
+    "type": "split",
+    "children": [
+      {
+        "id": "22e7a1d414495052",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfdb905519b828bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "27e9d5ed97f69777",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "69bd860c657c85fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "7f60106d0c45c0ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "d620bbcd40a6b0f7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c04a62a682664003",
+  "lastOpenFiles": [
+    "ЭВМ/7 Поколения ЭВМ.md",
+    "ЭВМ/6 Универсальные логические модули.md",
+    "ЭВМ/5 Архитектура и организация ЭВМ. Архитектура и принципы фон Неймана.md",
+    "ЭВМ/4 Условные и циклические конструкции в Assembler.md",
+    "ЭВМ",
+    "Структуры и алгоритмы обработки данных/9 Общее для логических структур данных операции..md",
+    "Структуры и алгоритмы обработки данных/8 Основные операции со списками.md",
+    "Структуры и алгоритмы обработки данных/6 Нелинейные связные структуры.md",
+    "Структуры и алгоритмы обработки данных/7 Преимущества и недостатки динамических данных.md",
+    "Структуры и алгоритмы обработки данных/5 Линейные динамические структуры данных.md",
+    "Структуры и алгоритмы обработки данных/4 Полу-статические структуры данных.md",
+    "Структуры и алгоритмы обработки данных/3 Статические структуры.md",
+    "Структуры и алгоритмы обработки данных/2 Распределение памяти + указатель на void.md",
+    "Структуры и алгоритмы обработки данных/14 Еще структуры.md",
+    "Структуры и алгоритмы обработки данных/13 Поиск.md",
+    "Структуры и алгоритмы обработки данных/12 Алгоритмы обработки данных.md",
+    "Структуры и алгоритмы обработки данных/11 Непрерывные и ссылочные реализации.md",
+    "Структуры и алгоритмы обработки данных/10 Структура хранения или физические структуры данных..md",
+    "Структуры и алгоритмы обработки данных/1 Структуры данных.md",
+    "Структуры и алгоритмы обработки данных",
+    "Разработка и анализ требований ПО/1 Требования к ПО.md",
+    "Разработка и анализ требований ПО",
+    "Прога/3 семестр/9 Модульное программирование.md",
+    "Прога/3 семестр/8 Нисходящая разработка программы.md",
+    "Прога/3 семестр/7 Восходящий подход к программированию.md",
+    "Прога/3 семестр/6 Основные этапы разработки программных продуктов.md",
+    "Прога/3 семестр/5 Динамическое распределение памяти.md",
+    "Прога/3 семестр/4 Виртуальные функции.md",
+    "Прога/3 семестр/3 Наследование классов.md",
+    "Прога/3 семестр",
+    "Прога/2 семестр",
+    "Прога",
+    "Математическая логика и теория алгоритмов",
+    "История/3 семестр",
+    "История/2 семестр",
+    "История",
+    "data/Pasted image 20241211142421.png",
+    "data/Pasted image 20241211152721.png",
+    "data/Pasted image 20241112112112.png",
+    "data/Pasted image 20241120145324.png",
+    "data/Pasted image 20241113145300.png",
+    "data/Pasted image 20241112112532.png",
+    "data/Pasted image 20241112110048.png",
+    "data/Pasted image 20241015102912.png",
+    "data/Pasted image 20241023164025.png",
+    "data/Pasted image 20241008111811.png"
+  ]
+}
