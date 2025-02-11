@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "1"
             }
+          },
+          {
+            "id": "0cdd0038b0edef89",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -162,7 +176,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d32d84f52364efb2",
+  "active": "0cdd0038b0edef89",
   "lastOpenFiles": [
     "Экономика стартапа/1 Бизнес-модель стартапа.md",
     "ООП/1.md",
