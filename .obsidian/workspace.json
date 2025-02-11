@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Элтех/Без названия.md",
+                "file": "Элтех/1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "1"
             }
           }
         ],
@@ -180,7 +180,7 @@
   },
   "active": "0cdd0038b0edef89",
   "lastOpenFiles": [
-    "Элтех/Без названия.md",
+    "Элтех/1.md",
     "Элтех",
     "Экономика стартапа/1 Бизнес-модель стартапа.md",
     "ООП/1.md",
