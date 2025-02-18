@@ -11,10 +11,14 @@
             "id": "8ecb8358db0f04f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Элтех/1 Электротеника.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "1 Электротеника"
             }
           }
         ]
