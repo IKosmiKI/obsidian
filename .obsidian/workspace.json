@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Исследование операций/1 Определения всякие.md",
+                "file": "Теория вероятности/1 Случайные события.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Определения всякие"
+              "title": "1 Случайные события"
             }
           }
         ],
@@ -195,9 +195,9 @@
   },
   "active": "164efab0bdc115af",
   "lastOpenFiles": [
+    "Исследование операций/1 Определения всякие.md",
     "data/Pasted image 20250219140054.png",
     "Excalidraw/Drawing 2025-02-19 13.58.33.excalidraw.md",
-    "Исследование операций/1 Определения всякие.md",
     "data/Pasted image 20250219135942.png",
     "Excalidraw",
     "data/Pasted image 20250219134332.png",
@@ -210,7 +210,6 @@
     "data/Pasted image 20250218153819.png",
     "Элтех/1 Электротеника.md",
     "data/Pasted image 20250218153649.png",
-    "data/Pasted image 20250218152123.png",
     "Теория вероятности/1 Случайные события.md",
     "Теория вероятности",
     "Исследование операций",
