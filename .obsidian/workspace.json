@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "1 Определения всякие"
             }
+          },
+          {
+            "id": "164efab0bdc115af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-19 13.58.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-19 13.58.33.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,14 +187,17 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "b40f854cd9f54a77",
+  "active": "164efab0bdc115af",
   "lastOpenFiles": [
+    "Исследование операций/1 Определения всякие.md",
+    "Excalidraw/Drawing 2025-02-19 13.58.33.excalidraw.md",
+    "Excalidraw",
     "data/Pasted image 20250219134332.png",
     "ООП/1.md",
-    "Исследование операций/1 Определения всякие.md",
     "data/Pasted image 20250219130258.png",
     "data/Pasted image 20250219123815.png",
     "data/Pasted image 20250219123624.png",
@@ -193,7 +208,6 @@
     "data/Pasted image 20250218153649.png",
     "data/Pasted image 20250218152123.png",
     "data/Pasted image 20250218151126.png",
-    "data/Pasted image 20250218151120.png",
     "Теория вероятности/1 Случайные события.md",
     "Теория вероятности",
     "Исследование операций",
@@ -225,7 +239,6 @@
     "Прога/3 семестр",
     "Прога/2 семестр",
     "Разработка и анализ требований ПО",
-    "Структуры и алгоритмы обработки данных",
     "Untitled.canvas"
   ]
 }
