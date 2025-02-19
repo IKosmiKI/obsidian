@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "1 Электротеника"
             }
+          },
+          {
+            "id": "b40f854cd9f54a77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Исследование операций/1 Определения всякие.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 Определения всякие"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,8 +178,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8ecb8358db0f04f8",
+  "active": "b40f854cd9f54a77",
   "lastOpenFiles": [
+    "data/Pasted image 20250219122713.png",
     "data/Pasted image 20250218155239.png",
     "data/Pasted image 20250218153819.png",
     "Элтех/1 Электротеника.md",
@@ -205,7 +221,6 @@
     "История/3 семестр/13 Советский союз в послевоенный период 1945-1953.md",
     "data/Pasted image 20241211152721.png",
     "data/Pasted image 20241211142421.png",
-    "data/Pasted image 20241120145324.png",
     "Прога/3 семестр/Untitled",
     "Прога/3 семестр",
     "Прога/2 семестр",
