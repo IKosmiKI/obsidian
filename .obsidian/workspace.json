@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Исследование операций/1 Определения всякие.md",
+                "file": "Элтех/1 Электротеника.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Определения всякие"
+              "title": "1 Электротеника"
             }
           }
         ],
@@ -180,5 +180,7 @@
     }
   },
   "active": "7e5bd579caca94c6",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Исследование операций/1 Определения всякие.md"
+  ]
 }
