@@ -20,6 +20,20 @@
             }
           },
           {
+            "id": "2a5313265302c903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "7e5bd579caca94c6",
             "type": "leaf",
             "state": {
@@ -33,7 +47,8 @@
               "title": "3 Наследование классов"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,8 +193,9 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "2172cb3a0f9d71c1",
+  "active": "4dbfb3d277ac8f24",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Прога/3 семестр/3 Наследование классов.md",
     "ООП/1.md",
     "Элтех/1 Электротеника.md",
