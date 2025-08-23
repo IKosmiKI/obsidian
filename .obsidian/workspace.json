@@ -33,8 +33,7 @@
               "title": "3 Наследование классов"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "инкап",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +86,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,8 +178,9 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "f43894d9dc25a03f",
+  "active": "2172cb3a0f9d71c1",
   "lastOpenFiles": [
+    "Прога/3 семестр/3 Наследование классов.md",
     "ООП/1.md",
     "Элтех/1 Электротеника.md",
     "Исследование операций/1 Определения всякие.md"
