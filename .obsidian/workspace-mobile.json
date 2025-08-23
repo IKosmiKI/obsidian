@@ -11,10 +11,14 @@
             "id": "38e286f5a38b4c04",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IPad update.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "IPad update"
             }
           }
         ]
@@ -94,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "IPad update.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,6 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "IPad update.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -125,6 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "IPad update.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -150,5 +157,7 @@
     }
   },
   "active": "38e286f5a38b4c04",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "IPad update.md"
+  ]
 }
