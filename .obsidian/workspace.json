@@ -11,12 +11,14 @@
             "id": "2172cb3a0f9d71c1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "3 курс 6 семестр/Автоматизация конструкторского и технологического проектирования.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "Автоматизация конструкторского и технологического проектирования"
             }
           },
           {
@@ -169,17 +171,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "2172cb3a0f9d71c1",
   "lastOpenFiles": [
+    "3 курс 6 семестр/Автоматизация конструкторского и технологического проектирования.md",
+    "3 курс 6 семестр/Без названия",
+    "3 курс 6 семестр",
     "conflict-files-obsidian-git.md",
     "Прога/3 семестр/3 Наследование классов.md",
     "ООП/1.md",
